@@ -11,4 +11,4 @@ setInterval(() => {
     icons[0].classList.add("change");
     i = 1;
   }
-}, 1000);
+}, 3000);
